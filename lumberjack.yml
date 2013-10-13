@@ -1,0 +1,13 @@
+title: Lemon Curry?!
+description: A collection of recipes for lemon curry?!
+author: James Bigglesworth
+
+site:
+    output: build
+    exclude:
+        - /Makefile
+        - /bin
+        - /build
+        - /include
+        - /lib
+        - /templates
